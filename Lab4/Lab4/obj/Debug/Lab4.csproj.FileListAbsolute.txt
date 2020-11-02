@@ -1,0 +1,16 @@
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\Lab4.pdb
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\BouncyCastle.Crypto.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\Google.Protobuf.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\MySql.Data.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\Renci.SshNet.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\MySql.Data.xml
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\obj\Debug\Lab4.exe
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\obj\Debug\Lab4.pdb
