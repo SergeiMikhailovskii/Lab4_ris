@@ -26,8 +26,8 @@ namespace Lab4.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("server=localhost;user id=Sergei;password=12345;persistsecurityinfo=True;database=" +
-            "lab4")]
+        [global::System.Configuration.DefaultSettingValueAttribute("server=localhost;user id=Sergei;password=12345;database=lab4;persistsecurityinfo=" +
+            "True")]
         public string lab4ConnectionString {
             get {
                 return ((string)(this["lab4ConnectionString"]));
